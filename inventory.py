@@ -1,0 +1,4 @@
+
+
+class HasInventory():
+    invetory = ['somthing']
