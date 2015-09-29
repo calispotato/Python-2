@@ -1,0 +1,15 @@
+{
+  "abilities" : ["Inner foucus, Steadfast, prankster"]
+  "desciption": "hiiiiiya *misses*",
+  "attack": 70,
+  "catch_rate": 50,
+  "defense": 40,
+  "ex_yield": 1 "Sp attack",
+  "evolutions": [
+    {
+      "level": 16,
+      "method": "level up",
+      "to": "Riolu.json"
+     } 
+  ]
+}
